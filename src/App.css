@@ -1,0 +1,28 @@
+.fals{
+    background-image: url(https://thumbs.dfs.ivi.ru/storage31/contents/0/b/4e82bccee77651274716a780a7da78.jpg);
+    height: 400px;
+    background-size: cover;
+    /* filter:hue-rotate(150deg); */
+}
+a{
+    text-decoration: none; 
+    color: black;
+}
+.blo{
+    height: 1200px;
+    overflow: auto auto;
+    overscroll-behavior: contain;
+}
+.bloc{
+    height: 600px;
+    overflow: auto auto;
+    overscroll-behavior: contain;
+}
+.bro{
+    height: auto;
+    overflow: auto auto;
+    overscroll-behavior: contain;
+}
+.rick{
+    z-index: 1;
+}
