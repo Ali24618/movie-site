@@ -40,7 +40,7 @@ const Rick = () => {
                                 <div className="row">
                                     <div className="col-md-12 p-1">
                                         <div className="row">
-                                            <div className="col-md-1 text-center"><h6 className="mt-2"><a href="/works"><b>TMBT</b></a></h6></div>
+                                            <div className="col-md-1 text-center"><h6 className="mt-2"><a href="/works"><b>MBTI</b></a></h6></div>
                                             <div className="col-md-1 text-center"><h6 className="mt-2"><a href="/"><b>Главное</b></a></h6></div>
                                             <div className="col-md-2 text-center"><h6 className="mt-2"><a href="/popular"><b>Популярные</b></a></h6></div>
                                             <div className="col-md-1 text-center"><h6 className="mt-2"><a href="/serial"><b>Сериалы</b></a></h6></div>
